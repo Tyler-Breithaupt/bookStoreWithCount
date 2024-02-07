@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/bin/Debug/net7.0/bookStoreWithCount
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/bin/Debug/net7.0/bookStoreWithCount.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/bin/Debug/net7.0/bookStoreWithCount.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/bin/Debug/net7.0/bookStoreWithCount.dll
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/bin/Debug/net7.0/bookStoreWithCount.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/bookStoreWithCount.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/bookStoreWithCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/bookStoreWithCount.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/bookStoreWithCount.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/bookStoreWithCount.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/bookStoreWithCount.dll
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/refint/bookStoreWithCount.dll
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/bookStoreWithCount.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/bookStoreWithCount.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/bookStoreWithCount/obj/Debug/net7.0/ref/bookStoreWithCount.dll
